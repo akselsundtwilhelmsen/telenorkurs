@@ -1,0 +1,39 @@
+{
+    "abonnement" [
+        {
+            "navn": "Ubegrenset Multi",
+            "data": "ubegrenset",
+            "info": "Ubegrenset data med maksimal hastighet Du får hele 200 GB data, med hastighet opptil 1000 Mbit/s. Bruker du mer enn 200 GB data, vil hastigheten senkes til 3 Mbit/s. Bestiller du en Hastighetsreload, får du full fart igjen. 2 ekstra SIM-kort Med ekstra SIM-kort kan du være på nett med to ekstra enheter, f.eks. smartklokke, nettbrett eller ruter. Du bestemmer selv om du ønsker Data-SIM, Tvilling-SIM eller en av hver. (Verdi: 198,-/md.) Nettvern+, et kraftig sikkerhetsfilter – kun hos Telenor Nettvern+ er et ekstra effektivt sikkerhetsfilter som stopper deg fra å gå inn på utrygge eller falske nettsider. Trykker du for eksempel på en lenke i det som ser ut som en troverdig SMS, blokkerer Nettvern+ siden dersom det er svindel eller virus. Du må selv aktivere Nettvern+."
+        },
+        {
+            "navn": "Ubegrenset Ekstra",
+            "data": "ubegrenset",
+            "info": "Ubegrenset data med maksimal hastighet Du får opptil 1000 Mbit/s hastighet og ubegrenset data i hele EU/EØS. Bruker du mer enn 100 GB data, vil hastigheten senkes til 3 Mbit/s. Bestiller du en Hastighetsreload, får du full fart igjen. 1 ekstra SIM-kort Med ekstra SIM-kort kan du være på nett med én ekstra enhet, f.eks. smartklokke, nettbrett eller ruter. Du bestemmer selv om du ønsker Data-SIM eller Tvilling-SIM. (Verdi: 99,-/md.) Nettvern+, et kraftig sikkerhetsfilter – kun hos Telenor Nettvern+ er et ekstra effektivt sikkerhetsfilter som stopper deg fra å gå inn på utrygge eller falske nettsider. Trykker du for eksempel på en lenke i det som ser ut som en troverdig SMS, blokkerer Nettvern+ siden dersom det er svindel eller virus. Du må selv aktivere Nettvern+"
+        },
+        {
+            "navn": "Ubegrenset Standard",
+            "data": "ubegrenset",
+            "info": "Inkludert i Ubegrenset Standard Ubegrenset data med maksimal hastighet Du får hastighet opptil 1000 Mbit/s og ubegrenset data. Bruker du mer enn 100 GB data, vil hastigheten senkes til 3 Mbit/s. Bestiller du en Hastighetsreload, får du full fart igjen. Nettvern+, et kraftig sikkerhetsfilter – kun hos Telenor Nettvern+ er et ekstra effektivt sikkerhetsfilter som stopper deg fra å gå inn på utrygge eller falske nettsider. Trykker du for eksempel på en lenke i det som ser ut som en troverdig SMS, blokkerer Nettvern+ siden dersom det er svindel eller virus. Du må selv aktivere Nettvern+. Inkludert i alle abonnement Nummeroppslag med Se Hvem Med appen Se Hvem kan du se hvem som ringer og om nummeret er potensiell svindel eller telefonsalg. Du kan enkelt reservere deg mot telefonsalg, gjøre nummeroppslag og mye mer. Ubegrenset bildelagring i Min Sky Med appen Min Sky får du ubegrenset og trygg lagring av bildene og videoene dine. Du kan redigere, organisere og dele bilder med familie og venner. Hjelp ved netthets med Nettslett Med tjenesten Nettslett kan du få psykologhjelp og advokatbistand hvis du blir utsatt for netthets eller hvis noen sprer bilder av deg på nettet. Sikkerhetsfilteret Nettvern Nettvern er et grunnleggende sikkerhetsfilter i nettet som blokkerer vanlige utrygge nettsider og øker nettsikkerheten under surfing. Bruk mobilen som hjemme i EU/EØS Fri tale, sms/mms og data, akkurat som hjemme. Så mye du vil – uten ekstra kostnad. Norges beste mobilnett Raskest, mest stabilt og best dekning."
+        },
+        {
+            "navn": "Ubegrenset Start",
+            "data": "ubegrenset",
+            "info": "Ubegrenset data med god hastighet Du får hastighet opptil 250 Mbit/s og ubegrenset data. Bruker du mer enn 100 GB data, vil hastigheten senkes til 3 Mbit/s. Bestiller du en Hastighetsreload, får du full fart igjen."
+        },
+        {
+            "navn": "Optimal 10GB",
+            "data": "10GB",
+            "info": "10 GB data med god hastighet Du surfer med hastighet opptil 250 Mbit/s. 5 uker Feriedata 100 GB ekstra data – i 5 valgfrie uker i året. Perfekt på ferie eller når du deler data og streamer. Nettvern+, et kraftig sikkerhetsfilter – kun hos Telenor Nettvern+ er et ekstra effektivt sikkerhetsfilter som stopper deg fra å gå inn på utrygge eller falske nettsider. Trykker du for eksempel på en lenke i det som ser ut som en troverdig SMS, blokkerer Nettvern+ siden dersom det er svindel eller virus. Du må selv aktivere Nettvern+."
+        },
+        {
+            "navn": "Normal 10GB",
+            "data": "10GB",
+            "info": "10 GB data med god hastighet Du surfer med hastighet opptil 250 Mbit/s. Nettvern+, et kraftig sikkerhetsfilter – kun hos Telenor Nettvern+ er et ekstra effektivt sikkerhetsfilter som stopper deg fra å gå inn på utrygge eller falske nettsider. Trykker du for eksempel på en lenke i det som ser ut som en troverdig SMS, blokkerer Nettvern+ siden dersom det er svindel eller virus. Du må selv aktivere Nettvern+."
+        },
+        {
+            "navn": "Liten 5GB",
+            "data": "5GB",
+            "info": "5 GB data med god hastighet Du surfer med hastighet opptil 250 Mbit/s."
+        }
+    ]
+}
